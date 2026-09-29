@@ -1,8 +1,7 @@
 # intercolegial-salesiana-
 concurso
-
-de la salesian 
-solage 
-milenma 
-jazmin
-iop
+Integrantes:
+Solage Sanchez
+Milena Tomalá
+Jazmin Paladines Mero
+Pamela Espinoza Olivo
