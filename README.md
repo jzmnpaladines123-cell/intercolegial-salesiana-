@@ -1,7 +1,7 @@
 # intercolegial-salesiana-
 concurso
 Integrantes:
-Solage Sanchez
+Solaje Sanchez
 Milena Tomalá
 Jazmin Paladines Mero
 Pamela Espinoza Olivo
